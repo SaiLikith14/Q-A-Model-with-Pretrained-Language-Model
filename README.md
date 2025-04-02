@@ -6,7 +6,7 @@ This repository contains a question and answer (Q&amp;A) model built using pretr
 Clone the repository: git clone https://github.com/SaiLikith14/Q-A-Model-with-Pretrained-Language-Model.git
 
 
-Install the required dependencies: pip install -r requirements.txt
+Install the required dependencies: 'pip install -r requirements.txt'
 
 
-Run the Streamlit application: streamlit run app.py
+Run the Streamlit application: 'streamlit run app.py'
